@@ -18,6 +18,6 @@ Merged all pivot tables into a single interactive dashboard and applied slicers 
 <a href="https://github.com/simar755/Blinkit-Grocery-Analysis/blob/main/Picture.png">View Dashboard</a>
 
 **Dashboard**
-https://github.com/simar755/Blinkit-Grocery-Analysis/blob/main/Picture.png
+![Picture.png)](https://github.com/simar755/Blinkit-Grocery-Analysis/blob/main/Picture.png)
 **Final Conclusion**
 To optimize sales performance, Blinkit should focus on marketing strategies targeting women aged 25-45 years, especially in metro cities like Mumbai, Delhi, and Bangalore. Personalized promotions and discounts on high-demand grocery items can further enhance customer engagement and retention. Additionally, strengthening logistics and delivery efficiency will improve customer satisfaction and drive repeat purchases.
